@@ -12,9 +12,9 @@ title                    : "Uy Dieu Tran"
 title_separator          : "-"
 name                     : &name "Uy Dieu Tran"
 description              : &description "VinAI residents"
-url                      : https://uytran20111999.github.io/uytd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://uytran20111999.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "uytran20111999/uytd.github.io"
+repository               : "uytran20111999/uytran20111999.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
