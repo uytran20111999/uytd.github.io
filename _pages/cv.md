@@ -30,16 +30,16 @@ Work experience
   
 Skills
 ======
-* Have knowledge of C++/CUDA
+* Familiar with C++
 * Python
   * PyTorch
   * Numpy
   * Pandas
   * Hugging face
-* Have knowledge of current 3D deeplearning techniques
+* Familiar with 3D deeplearning techniques
   * Nerf
   * Gaussian Splatting
-* Have knowledge of diffusion model.
+* Got a good grasp of diffusion models
 
 Publications
 ======
