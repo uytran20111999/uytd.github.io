@@ -15,15 +15,15 @@ Education
 
 Work experience
 ======
-* Fall 2021: Technical Artist internship
+* Summer 2022: Technical Artist internship
   * Glass Egg company
   * Duties: Write tools and do quality control for artists.
 
-* Winter 2021: Software development internship
+* Winter 2022: Software development internship
   * DEK
   * Duties included: maintaing bug reported from customers.
 
-* Spring 2022: VinAI Resident
+* Spring 2023: VinAI Resident
   * VinAI
   * Duties included: Research on topic related to 3D synthesis.
   * Supervisor: Professor Binh-Son Hua
